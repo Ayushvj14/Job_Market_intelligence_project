@@ -1,0 +1,21 @@
+CREATE TABLE jobs(
+id BIGINT PRIMARY KEY,
+company TEXT,
+location TEXT,
+country TEXT,
+title TEXT,
+description TEXT,
+category TEXT,
+contract_type TEXT,
+contract_time TEXT,
+salary_min NUMERIC,
+salary_max NUMERIC,
+salary_available BOOLEAN,
+salary_is_predicted BOOLEAN,
+created TIMESTAMPTZ,
+latitude DOUBLE PRECISION,
+longitude DOUBLE PRECISION,
+coordinates_availbale BOOLEAN,
+title_normalized TEXT,
+salary_quality TEXT
+)

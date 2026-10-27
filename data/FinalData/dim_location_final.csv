@@ -1,0 +1,40 @@
+﻿location_id,city,state,country
+LOC001,Bangalore,Karnataka,India
+LOC002,Mumbai,Maharashtra,India
+LOC003,Delhi,Delhi,India
+LOC004,Pune,Maharashtra,India
+LOC005,Indore,Madhya Pradesh,India
+LOC006,India (Country-level),Not Specified,India
+LOC007,Hyderabad,Telangana,India
+LOC008,Ahmedabad,Gujarat,India
+LOC009,Bhopal,Madhya Pradesh,India
+LOC010,Kanpur,Uttar Pradesh,India
+LOC011,Chennai,Tamil Nadu,India
+LOC012,Lucknow,Uttar Pradesh,India
+LOC013,Noida,Uttar Pradesh,India
+LOC014,Navi Mumbai,Maharashtra,India
+LOC015,Other / Not Specified,Not Specified,India
+LOC016,Jaipur,Rajasthan,India
+LOC017,Coimbatore,Tamil Nadu,India
+LOC018,Chandigarh,Chandigarh,India
+LOC019,Gurgaon,Haryana,India
+LOC020,Kolkata,West Bengal,India
+LOC021,Nashik,Maharashtra,India
+LOC022,Mohali,Punjab,India
+LOC023,Faridabad,Haryana,India
+LOC024,Nagpur,Maharashtra,India
+LOC025,Vadodara,Gujarat,India
+LOC026,Trivandrum,Kerala,India
+LOC027,Surat,Gujarat,India
+LOC028,Thane,Maharashtra,India
+LOC029,Kochi,Kerala,India
+LOC030,Visakhapatnam,Andhra Pradesh,India
+LOC031,Mysore,Karnataka,India
+LOC032,Dehradun,Uttarakhand,India
+LOC033,Bhubaneswar,Odisha,India
+LOC034,Patna,Bihar,India
+LOC035,Rajkot,Gujarat,India
+LOC036,Mangalore,Karnataka,India
+LOC037,Agra,Uttar Pradesh,India
+LOC038,Ghaziabad,Uttar Pradesh,India
+LOC039,Ranchi,Jharkhand,India
